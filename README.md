@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Augmented Reality, Virtual Reality, Oculus Development**
 
-- 💬 Ask me about **React, Angular, Java, Unity, Node.Js**
+- 💬 Ask me about **Node.Js, Java, React, Angular, Unity**
 
 - 📫 How to reach me **pankajvermacr7@gmail.com**
 
